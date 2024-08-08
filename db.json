@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": "abb7dd9d-2d8d-423e-aaf0-99720e408dea",
+      "title": "React Projesi Yap",
+      "status": "Job",
+      "date": "08.08.2024",
+      "isDone": false
+    },
+    {
+      "id": "c77ac369-8f82-4e4a-bf4b-5138543a614f",
+      "title": "Taskı kontrol et",
+      "status": "Job",
+      "date": "08.08.2024",
+      "isDone": false
+    },
+    {
+      "id": "cb326d6b-0746-4524-82ec-b6bcbcbd9b04",
+      "title": "Dizi izle",
+      "status": "Important",
+      "date": "08.08.2024",
+      "isDone": false
+    }
+  ]
+}
